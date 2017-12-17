@@ -4,9 +4,9 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 import java.io.*;
-public class HR_str_3 {
+public class HR_str_3_Lex_greatest_smallest_substring {
 
-
+        //Lexicographically greatest and smallest substring
         public static String getSmallestAndLargest(String s, int k) {
             char[] chars = new char[k];
             Arrays.fill(chars, 'z');

@@ -5,9 +5,9 @@ import java.math.*;
 import java.util.regex.*;
 import java.io.*;
 
-public class HR_str_4 {
+public class HR_str_4_if_palindrome {
     public void run() {
-
+        //Given a string , print Yes if it is a palindrome, print No otherwise.
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
         boolean flag = true;

@@ -2,11 +2,11 @@ package com.company;
 import java.io.*;
 import java.util.*;
 
-public class HR_Str_1 {
+public class HR_Str_1_Lexi {
 
 
     public void run() {
-
+        //Lexicographically greater than B
         Scanner sc = new Scanner(System.in);
         String A = sc.next();
         String B = sc.next();

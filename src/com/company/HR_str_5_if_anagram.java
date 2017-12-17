@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 
-public class HR_str_5 {
+public class HR_str_5_if_anagram {
     void run() {
         String a, b;
         Scanner scan = new Scanner(System.in);
