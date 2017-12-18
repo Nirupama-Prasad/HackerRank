@@ -1,6 +1,8 @@
+package com.company;
+
 import java.util.Scanner;
 import java.util.regex.*;
-public class HR_Str_8_Regex_check {
+public class HR_Str_7_Regex_check {
     public void run(){
         Scanner in = new Scanner(System.in);
         int testCases = Integer.parseInt(in.nextLine());
