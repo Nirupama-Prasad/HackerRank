@@ -1,5 +1,4 @@
-package com.company;
-import java.io.*;
+package com.hr;
 import java.util.*;
 
 public class HR_Str_1_Lexi {

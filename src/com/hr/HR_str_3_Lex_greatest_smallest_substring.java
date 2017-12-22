@@ -1,9 +1,6 @@
-package com.company;
+package com.hr;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
-import java.io.*;
+
 public class HR_str_3_Lex_greatest_smallest_substring {
 
         //Lexicographically greatest and smallest substring

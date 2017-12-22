@@ -1,9 +1,5 @@
-package com.company;
+package com.hr;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
-import java.io.*;
 
 public class HR_str_4_if_palindrome {
     public void run() {

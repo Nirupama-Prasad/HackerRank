@@ -1,4 +1,4 @@
-package com.company;
+package com.hr;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

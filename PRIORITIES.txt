@@ -1,0 +1,7 @@
+
+
+0. HackerRank Java - finish
+0. Data structs review
+1. Algo reviews
+1. CTCI - 3 pr/chapter
+2. HR - prog int problems

@@ -1,6 +1,4 @@
-package com.company;
-import java.io.*;
-import java.util.*;
+package com.hr;
 import java.util.Scanner;
 
 
