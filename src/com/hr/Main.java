@@ -1,14 +1,14 @@
 package com.hr;
 
-import com.ds.*;
-import com.oop.*;
+import com.algo.*;
 
 
 public class Main {
 
     public static void main(String[] args) {
-        HR_DS_15_Priority_Queue hr = new HR_DS_15_Priority_Queue();
+        HR_AL_Strings_4_Sherlock_Valid_String hr = new HR_AL_Strings_4_Sherlock_Valid_String();
         hr.run();
 
     }
 }
+

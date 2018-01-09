@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da68564-127b-4db8-bd8c-06b3899749cf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/BigNumber/HR_BI_1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/BigNumber/HR_BI_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ds/HR_DS_13_Dequeue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ds/HR_DS_14_Bitset.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ds/HR_DS_15_Priority_Queue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/oop/HR_OOP_1_Inheritance_1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/oop/HR_OOP_2_Inheritance_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/oop/HR_OOP_3_Abstract_Class.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/oop/HR_OOP_4_Interface.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/oop/HR_OOP_5_Method_Overloading.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/oop/HR_OOP_6_Overriding_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/oop/HR_OOP_7_instanceof.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/oop/HR_OOP_8_Iterator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/Exception/HR_EX_2_power.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/algo/HR_AL_Strings_1_super_reduced.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/algo/HR_AL_Strings_2_camelCase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/algo/HR_AL_Strings_3_make_t.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/algo/HR_AL_Strings_4_Sherlock_Valid_String.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ds/DS/HR_DS_1_Array_sum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/ds/DS/HR_DS_2_Compare_Triplet.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHackerRank/com/ds/HR_DS_15_Priority_Queue$Priorities.class" afterPath="$PROJECT_DIR$/out/production/JavaHackerRank/com/ds/HR_DS_15_Priority_Queue$Priorities.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHackerRank/com/ds/HR_DS_15_Priority_Queue.class" afterPath="$PROJECT_DIR$/out/production/JavaHackerRank/com/ds/HR_DS_15_Priority_Queue.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHackerRank/com/hr/Main.class" afterPath="$PROJECT_DIR$/out/production/JavaHackerRank/com/hr/Main.class" />
+      <change beforePath="$PROJECT_DIR$/src/com/BigNumber/HR_BI_2.java" afterPath="$PROJECT_DIR$/src/com/BigNumber/HR_BI_2.java" />
       <change beforePath="$PROJECT_DIR$/src/com/hr/Main.java" afterPath="$PROJECT_DIR$/src/com/hr/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hr/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,44 +38,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HR_DS_15_Priority_Queue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ds/HR_DS_15_Priority_Queue.java">
+      <file leaf-file-name="HR_AL_Strings_3_make_t.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/HR_AL_Strings_3_make_t.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+            <state relative-caret-position="139">
+              <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="15" />
               <folding>
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#714#723#0" expanded="true" />
-                <element signature="e#777#788#0" expanded="true" />
+                <element signature="e#372#383#0" expanded="true" />
+                <element signature="e#906#926#0" expanded="true" />
+                <element signature="e#2136#2147#0" expanded="true" />
+                <element signature="e#3579#3590#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HR_BI_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/BigNumber/HR_BI_1.java">
+      <file leaf-file-name="HR_AL_Strings_4_Sherlock_Valid_String.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/HR_AL_Strings_4_Sherlock_Valid_String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="706">
+              <caret line="48" column="15" lean-forward="true" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HR_BI_2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/BigNumber/HR_BI_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#180#200#0" expanded="true" />
+                <element signature="e#490#508#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,6 +80,7 @@
     <findStrings>
       <find>System.out.println</find>
       <find>Op</find>
+      <find>map</find>
     </findStrings>
     <replaceStrings>
       <replace>//System.out.println</replace>
@@ -113,16 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HR_Str_7_IP_fmt_chk.java" />
-        <option value="$PROJECT_DIR$/src/com/company/HR_Str_7_IP_fmt_chk.java" />
-        <option value="$PROJECT_DIR$/src/com/company/HR_Str_8_Regex_check.java" />
-        <option value="$PROJECT_DIR$/src/com/company/HR_Str_7_Regex_check.java" />
-        <option value="$PROJECT_DIR$/src/com/company/HR_Str_8_IP_fmt_chk.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/HR_Str_9_Regex_duplicate.java" />
-        <option value="$PROJECT_DIR$/src/com/company/HR_Str_10_username_regex.java" />
-        <option value="$PROJECT_DIR$/src/com/hackerrank/HR_Str_10_username_regex.java" />
-        <option value="$PROJECT_DIR$/src/com/com/algo/NBinSearch.java" />
         <option value="$PROJECT_DIR$/src/com/hackerrank/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ds/NQueue.java" />
         <option value="$PROJECT_DIR$/src/com/jalgo/JBinSearch.java" />
@@ -144,7 +118,6 @@
         <option value="$PROJECT_DIR$/src/com/ds/HR_DS_7_Map.java" />
         <option value="$PROJECT_DIR$/src/com/ds/HR_DS_8_Stack.java" />
         <option value="$PROJECT_DIR$/src/com/hr/HR_Sentence_case.java" />
-        <option value="$PROJECT_DIR$/src/com/ds/HR_DS_9_Hashset.java" />
         <option value="$PROJECT_DIR$/src/com/ds/HR_DS_10_Generics.java" />
         <option value="$PROJECT_DIR$/src/com/ds/HR_DS_12_Sort.java" />
         <option value="$PROJECT_DIR$/src/com/ds/HR_DS_11_Comparator.java" />
@@ -155,7 +128,6 @@
         <option value="$PROJECT_DIR$/src/com/oop/HR_OOP_1_Inheritance.java" />
         <option value="$PROJECT_DIR$/src/com/oop/HR_OOP_1_Inheritance_1.java" />
         <option value="$PROJECT_DIR$/src/com/oop/HR_OOP_2_Inheritance_2.java" />
-        <option value="$PROJECT_DIR$/src/com/hr/Main.java" />
         <option value="$PROJECT_DIR$/src/com/oop/HR_OOP_3_Abstract_Class.java" />
         <option value="$PROJECT_DIR$/src/com/oop/HR_OOP_4_Interface.java" />
         <option value="$PROJECT_DIR$/src/com/oop/HR_OOP_5_Method_Overloading.java" />
@@ -164,6 +136,18 @@
         <option value="$PROJECT_DIR$/src/com/oop/HR_OOP_8_Iterator.java" />
         <option value="$PROJECT_DIR$/src/com/BigNumber/HR_BI_1.java" />
         <option value="$PROJECT_DIR$/src/com/BigNumber/HR_BI_2.java" />
+        <option value="$PROJECT_DIR$/src/com/Exception/HR_EX_2_power.java" />
+        <option value="$PROJECT_DIR$/src/com/ds/DS/HR_DS_1_Array_sum.java" />
+        <option value="$PROJECT_DIR$/src/com/ds/DS/HR_DS_2_Compare_Triplet.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/HR_AL_Strings_1_super_reduced.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/HR_AL_Strings_2_camelCase.java" />
+        <option value="$PROJECT_DIR$/src/com/ds/HR_DS_9_Hashset.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/HR_AL_Strings_3_make_t.java" />
+        <option value="$PROJECT_DIR$/src/com/hr/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/HR_4_Sherlock_Valid_String.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/HR_AL_STRING_4_Sherlock_Valid_String.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/HR_AL_String_4_Sherlock_Valid_String.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/HR_AL_Strings_4_Sherlock_Valid_String.java" />
       </list>
     </option>
   </component>
@@ -179,10 +163,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1420" />
+    <option name="width" value="1439" />
     <option name="height" value="833" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -203,10 +186,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,32 +211,20 @@
               <item name="JavaHackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="BigNumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaHackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaHackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaHackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaHackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -320,7 +289,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513389404130</updated>
-      <workItem from="1513389405992" duration="100646000" />
+      <workItem from="1513389405992" duration="119881000" />
+      <workItem from="1514844509088" duration="8205000" />
     </task>
     <task id="LOCAL-00001" summary="Till string Regex of hackerrank">
       <created>1513549666729</created>
@@ -347,11 +317,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100646000" />
+    <option name="totallyTimeSpent" value="128086000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="23" width="1444" height="870" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1439" height="833" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -361,25 +330,25 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32999283" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2874465" sideWeight="0.5096774" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28346458" sideWeight="0.51153845" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14978603" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14745884" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24982105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2874465" sideWeight="0.4903226" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61055636" sideWeight="0.48846152" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -433,7 +402,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -442,49 +411,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/HR_11_format.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hr/HR_str_4_if_palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hr/HR_str_5_if_anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hr/HR_Str_8_IP_fmt_chk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algo/NBinSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -492,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,7 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -508,7 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -516,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -524,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="13" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -534,25 +457,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ds/HR_DS_2_ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ds/HR_DS_2_ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/com/hr/HR_10_Calendar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,7 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,9 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="e#677#685#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,9 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,9 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="59" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,13 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#369#389#0" expanded="true" />
-            <element signature="e#599#608#0" expanded="true" />
-            <element signature="e#1068#1088#0" expanded="true" />
-            <element signature="e#1182#1191#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,25 +531,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="60" lean-forward="true" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
-          <folding>
-            <marker date="1513898973000" expanded="true" signature="1221:1702" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ds/HR_DS_3_ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ds/HR_DS_3_ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/com/ds/NQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,10 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#331#340#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -675,28 +553,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding>
-            <element signature="e#311#333#0" expanded="true" />
-            <element signature="e#454#465#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hr/HR_Sentence_case.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hr/HR_Sentence_case.java" />
     <entry file="file://$PROJECT_DIR$/src/com/ds/HR_DS_10_Generics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,13 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="25" column="56" lean-forward="false" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
-          <folding>
-            <element signature="class#Student#0;class#HR_DS_12_Sort#0" expanded="false" />
-            <element signature="method#Student#0;class#Student#0;class#HR_DS_12_Sort#0" expanded="false" />
-            <element signature="class#Checker#0;class#HR_DS_12_Sort#0" expanded="false" />
-            <element signature="method#compare#0;class#Checker#0;class#HR_DS_12_Sort#0" expanded="false" />
-            <element signature="method#run#0;class#HR_DS_12_Sort#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -718,9 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#228#243#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,20 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1448#1457#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ds/HR_DS_9_Hashset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="50" />
-          <folding>
-            <element signature="e#133#141#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="636" column="0" lean-forward="false" selection-start-line="636" selection-start-column="0" selection-end-line="636" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,15 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,11 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,9 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#361#395#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -813,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,15 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,16 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,22 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hr/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -893,16 +673,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding>
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#714#723#0" expanded="true" />
-            <element signature="e#777#788#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/BigNumber/HR_BI_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -910,18 +687,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Exception/HR_EX_2_power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ds/DS/HR_DS_1_Array_sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ds/DS/HR_DS_2_Compare_Triplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/HR_AL_Strings_2_camelCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ds/HR_DS_9_Hashset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/HR_AL_Strings_1_super_reduced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hr/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/BigNumber/HR_BI_2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algo/HR_AL_Strings_3_make_t.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="139">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#372#383#0" expanded="true" />
+            <element signature="e#906#926#0" expanded="true" />
+            <element signature="e#2136#2147#0" expanded="true" />
+            <element signature="e#3579#3590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/HR_AL_Strings_4_Sherlock_Valid_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="48" column="15" lean-forward="true" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding>
+            <element signature="e#180#200#0" expanded="true" />
+            <element signature="e#490#508#0" expanded="true" />
           </folding>
         </state>
       </provider>

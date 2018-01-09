@@ -6,17 +6,21 @@ import java.util.*;
 public class HR_BI_2 {
 
     public void run() {
-        Scanner sc= new Scanner(System.in);
-        int n=sc.nextInt();
-        String []s=new String[n+2];
-        for(int i=0;i<n;i++){
-            s[i]=sc.next();
+        try{
+            Scanner sc = new Scanner(System.in);
+            int x = sc.nextInt();
+            int y = sc.nextInt();
+            if(y==0)
+                throw  new ArithmeticException("/ by zero");
+            else
+                System.out.println(x/y);
         }
-        sc.close();
+        catch(InputMismatchException e){
+            System.out.println(e.getClass().getName());
+        }
 
-        for(int i=0;i<n;i++)
-        {
-            System.out.println(s[i]);
+        catch(ArithmeticException e){
+            System.out.println(e);
         }
     }
 }
